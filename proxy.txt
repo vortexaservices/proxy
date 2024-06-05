@@ -1,0 +1,1 @@
+screen -dmS ServerIPAddress ./tcp-proxy -l :ProxyPort -r ServerIPAddress:CNCPort
